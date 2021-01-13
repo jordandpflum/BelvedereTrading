@@ -2,7 +2,6 @@ NOTE: All Data has been removed for confidentiality reasons as it is the propert
 
 Report can be found [HERE](https://github.com/jordandpflum/BelvedereTrading/blob/master/Reports/Belveder_Final_Report.pdf) and poster presentation [HERE](https://github.com/jordandpflum/BelvedereTrading/blob/master/Reports/Reports/BelvederePresentation.pdf).
 
-This is a private repository for the Spring semester DSCI 435/535 Belvedere project. This code builds on prior work done by the Fall semester's team, and may include some of their code.
 <br /><br />
 To run the code, you will need the packages found in requirements.txt.
 <br /><br />
