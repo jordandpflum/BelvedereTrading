@@ -1,0 +1,19 @@
+Model Type,Time Interval,Number of Components,Accuracy,Features
+NaiveBayes,weekly,3,Accuracy: 0.37 (+/- 0.25),[]
+NaiveBayes,weekly,5,Accuracy: 0.26 (+/- 0.12),[]
+NaiveBayes,weekly,8,Accuracy: 0.16 (+/- 0.11),[]
+RadialBasisSVM,weekly,3,Accuracy: 0.37 (+/- 0.16),[]
+RadialBasisSVM,weekly,5,Accuracy: 0.23 (+/- 0.16),[]
+RadialBasisSVM,weekly,8,Accuracy: 0.16 (+/- 0.11),[]
+GradientBoost,weekly,3,Accuracy: 0.37 (+/- 0.20),"['ZS_HIGH_5-lag', 'ZS_ADX', 'ZS_APO_3-lag', 'ZS_PLUS_DM', 'ZS_TRIX_5-lag', 'ZM_ADX', 'ZM_ADXR', 'ZM_ADXR_3-lag', 'ZM_PPO', 'ZM_TRIX_5-lag']"
+GradientBoost,weekly,5,Accuracy: 0.29 (+/- 0.20),"['ZS_LOW_3-lag', 'ZS_ADX', 'ZS_ADX_5-lag', 'ZS_APO', 'ZS_TRIX', 'ZS_TRIX_5-lag', 'ZM_ADXR', 'ZM_ADXR_5-lag', 'ZM_APO', 'ZM_TRIX_5-lag']"
+GradientBoost,weekly,8,Accuracy: 0.26 (+/- 0.17),"['ZS_ADX', 'ZS_ADXR_5-lag', 'ZS_APO', 'ZS_PPO_5-lag', 'ZS_TRIX_5-lag', 'ZM_ADX', 'ZM_ADXR_3-lag', 'ZM_APO_1-lag', 'ZM_TRIX', 'ZM_TRIX_5-lag']"
+NaiveBayes,monthly,3,Accuracy: 0.49 (+/- 0.31),[]
+NaiveBayes,monthly,5,Accuracy: 0.36 (+/- 0.28),[]
+NaiveBayes,monthly,8,Accuracy: 0.32 (+/- 0.38),[]
+RadialBasisSVM,monthly,3,Accuracy: 0.48 (+/- 0.46),[]
+RadialBasisSVM,monthly,5,Accuracy: 0.33 (+/- 0.27),[]
+RadialBasisSVM,monthly,8,Accuracy: 0.23 (+/- 0.10),[]
+GradientBoost,monthly,3,Accuracy: 0.55 (+/- 0.39),"['ZS_HIGH_5-lag', 'ZS_ADXR', 'ZS_ADXR_5-lag', 'ZS_TRIX', 'ZS_TRIX_3-lag', 'ZS_TRIX_5-lag', 'ZS_OBV', 'ZM_ADX', 'ZM_ADXR_5-lag', 'ZM_APO_5-lag']"
+GradientBoost,monthly,5,Accuracy: 0.58 (+/- 0.34),"['ZS_OPEN_1-lag', 'ZS_ADXR', 'ZS_ADXR_5-lag', 'ZS_PLUS_DM', 'ZS_OBV_5-lag', 'ZS_CHAIKIN_1-lag', 'ZM_ADXR', 'ZM_APO_5-lag', 'ZM_TRIX', 'ZM_TRIX_5-lag']"
+GradientBoost,monthly,8,Accuracy: 0.68 (+/- 0.39),"['ZS_OPEN_5-lag', 'ZS_ADX', 'ZS_ADX_1-lag', 'ZS_TRIX_3-lag', 'ZS_TRIX_5-lag', 'ZS_OBV_3-lag', 'ZS_CHAIKIN_1-lag', 'ZM_ADXR_5-lag', 'ZM_APO_3-lag', 'ZM_TRIX']"

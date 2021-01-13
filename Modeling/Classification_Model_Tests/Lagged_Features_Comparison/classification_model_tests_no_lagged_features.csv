@@ -1,0 +1,19 @@
+Model Type,Time Interval,Number of Components,Accuracy,Features
+NaiveBayes,weekly,3,Accuracy: 0.34 (+/- 0.27),[]
+NaiveBayes,weekly,5,Accuracy: 0.27 (+/- 0.14),[]
+NaiveBayes,weekly,8,Accuracy: 0.19 (+/- 0.10),[]
+RadialBasisSVM,weekly,3,Accuracy: 0.38 (+/- 0.23),[]
+RadialBasisSVM,weekly,5,Accuracy: 0.25 (+/- 0.17),[]
+RadialBasisSVM,weekly,8,Accuracy: 0.18 (+/- 0.14),[]
+GradientBoost,weekly,3,Accuracy: 0.38 (+/- 0.25),"['ZS_HIGH', 'ZS_ADX', 'ZS_ADXR', 'ZS_PPO', 'ZS_TRIX', 'ZS_OBV', 'ZM_ADX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX']"
+GradientBoost,weekly,5,Accuracy: 0.26 (+/- 0.19),"['ZS_OPEN', 'ZS_ADX', 'ZS_ADXR', 'ZS_AROONOSC', 'ZS_PPO', 'ZS_TRIX', 'ZM_ADX', 'ZM_ADXR', 'ZM_APO', 'ZM_TRIX']"
+GradientBoost,weekly,8,Accuracy: 0.28 (+/- 0.18),"['ZS_LOW', 'ZS_ADX', 'ZS_ADXR', 'ZS_MINUS_DI', 'ZS_PPO', 'ZS_TRIX', 'ZM_ADX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX']"
+NaiveBayes,monthly,3,Accuracy: 0.49 (+/- 0.32),[]
+NaiveBayes,monthly,5,Accuracy: 0.38 (+/- 0.26),[]
+NaiveBayes,monthly,8,Accuracy: 0.36 (+/- 0.35),[]
+RadialBasisSVM,monthly,3,Accuracy: 0.51 (+/- 0.51),[]
+RadialBasisSVM,monthly,5,Accuracy: 0.33 (+/- 0.27),[]
+RadialBasisSVM,monthly,8,Accuracy: 0.28 (+/- 0.10),[]
+GradientBoost,monthly,3,Accuracy: 0.59 (+/- 0.34),"['ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_HIGH', 'ZM_ADX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX']"
+GradientBoost,monthly,5,Accuracy: 0.57 (+/- 0.32),"['ZS_HIGH', 'ZS_CLOSE', 'ZS_ADXR', 'ZS_PLUS_DM', 'ZS_TRIX', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX']"
+GradientBoost,monthly,8,Accuracy: 0.72 (+/- 0.34),"['ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_ADX', 'ZM_ADXR', 'ZM_APO', 'ZM_TRIX', 'ZM_OBV']"

@@ -1,0 +1,379 @@
+Model Type,Time Interval,Number of Components,Partition Type,Correlations This Interval,Correlations Next Interval
+NaiveBayes,weekly,3,uniform,"Accuracy: 0.30 (+/- 0.21)
+Features: []","Accuracy: 0.37 (+/- 0.23)
+Features: []"
+NaiveBayes,weekly,3,uniform_min_max,"Accuracy: 0.27 (+/- 0.27)
+Features: []","Accuracy: 0.23 (+/- 0.21)
+Features: []"
+NaiveBayes,weekly,3,match_distribution,"Accuracy: 0.41 (+/- 0.30)
+Features: []","Accuracy: 0.44 (+/- 0.27)
+Features: []"
+NaiveBayes,weekly,5,uniform,"Accuracy: 0.25 (+/- 0.25)
+Features: []","Accuracy: 0.25 (+/- 0.25)
+Features: []"
+NaiveBayes,weekly,5,uniform_min_max,"Accuracy: 0.23 (+/- 0.21)
+Features: []","Accuracy: 0.20 (+/- 0.15)
+Features: []"
+NaiveBayes,weekly,5,match_distribution,"Accuracy: 0.26 (+/- 0.16)
+Features: []","Accuracy: 0.27 (+/- 0.14)
+Features: []"
+NaiveBayes,weekly,8,uniform,"Accuracy: 0.26 (+/- 0.19)
+Features: []","Accuracy: 0.22 (+/- 0.14)
+Features: []"
+NaiveBayes,weekly,8,uniform_min_max,"Accuracy: 0.14 (+/- 0.30)
+Features: []","Accuracy: 0.15 (+/- 0.23)
+Features: []"
+NaiveBayes,weekly,8,match_distribution,"Accuracy: 0.19 (+/- 0.15)
+Features: []","Accuracy: 0.22 (+/- 0.14)
+Features: []"
+NaiveBayes,monthly,3,uniform,"Accuracy: 0.92 (+/- 0.33)
+Features: []","Accuracy: 0.93 (+/- 0.20)
+Features: []"
+NaiveBayes,monthly,3,uniform_min_max,"Accuracy: 0.33 (+/- 0.30)
+Features: []","Accuracy: 0.31 (+/- 0.20)
+Features: []"
+NaiveBayes,monthly,3,match_distribution,"Accuracy: 0.53 (+/- 0.31)
+Features: []","Accuracy: 0.53 (+/- 0.39)
+Features: []"
+NaiveBayes,monthly,5,uniform,"Accuracy: 0.74 (+/- 0.36)
+Features: []","Accuracy: 0.74 (+/- 0.37)
+Features: []"
+NaiveBayes,monthly,5,uniform_min_max,"Accuracy: 0.36 (+/- 0.43)
+Features: []","Accuracy: 0.45 (+/- 0.28)
+Features: []"
+NaiveBayes,monthly,5,match_distribution,"Accuracy: 0.51 (+/- 0.33)
+Features: []","Accuracy: 0.43 (+/- 0.33)
+Features: []"
+NaiveBayes,monthly,8,uniform,"Accuracy: 0.31 (+/- 0.29)
+Features: []","Accuracy: 0.29 (+/- 0.25)
+Features: []"
+NaiveBayes,monthly,8,uniform_min_max,"Accuracy: 0.46 (+/- 0.28)
+Features: []","Accuracy: 0.49 (+/- 0.34)
+Features: []"
+NaiveBayes,monthly,8,match_distribution,"Accuracy: 0.42 (+/- 0.36)
+Features: []","Accuracy: 0.48 (+/- 0.28)
+Features: []"
+RadialBasisSVM,weekly,3,uniform,"Accuracy: 0.77 (+/- 0.01)
+Features: []","Accuracy: 0.77 (+/- 0.01)
+Features: []"
+RadialBasisSVM,weekly,3,uniform_min_max,"Accuracy: 0.53 (+/- 0.01)
+Features: []","Accuracy: 0.52 (+/- 0.01)
+Features: []"
+RadialBasisSVM,weekly,3,match_distribution,"Accuracy: 0.34 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+RadialBasisSVM,weekly,5,uniform,"Accuracy: 0.43 (+/- 0.01)
+Features: []","Accuracy: 0.43 (+/- 0.02)
+Features: []"
+RadialBasisSVM,weekly,5,uniform_min_max,"Accuracy: 0.53 (+/- 0.01)
+Features: []","Accuracy: 0.53 (+/- 0.01)
+Features: []"
+RadialBasisSVM,weekly,5,match_distribution,"Accuracy: 0.21 (+/- 0.01)
+Features: []","Accuracy: 0.21 (+/- 0.01)
+Features: []"
+RadialBasisSVM,weekly,8,uniform,"Accuracy: 0.53 (+/- 0.02)
+Features: []","Accuracy: 0.52 (+/- 0.02)
+Features: []"
+RadialBasisSVM,weekly,8,uniform_min_max,"Accuracy: 0.41 (+/- 0.02)
+Features: []","Accuracy: 0.41 (+/- 0.02)
+Features: []"
+RadialBasisSVM,weekly,8,match_distribution,"Accuracy: 0.14 (+/- 0.01)
+Features: []","Accuracy: 0.14 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,3,uniform,"Accuracy: 0.97 (+/- 0.01)
+Features: []","Accuracy: 0.96 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,3,uniform_min_max,"Accuracy: 0.59 (+/- 0.01)
+Features: []","Accuracy: 0.58 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,3,match_distribution,"Accuracy: 0.35 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,5,uniform,"Accuracy: 0.63 (+/- 0.01)
+Features: []","Accuracy: 0.66 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,5,uniform_min_max,"Accuracy: 0.37 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,5,match_distribution,"Accuracy: 0.22 (+/- 0.01)
+Features: []","Accuracy: 0.22 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,8,uniform,"Accuracy: 0.65 (+/- 0.01)
+Features: []","Accuracy: 0.64 (+/- 0.01)
+Features: []"
+RadialBasisSVM,monthly,8,uniform_min_max,"Accuracy: 0.28 (+/- 0.02)
+Features: []","Accuracy: 0.29 (+/- 0.02)
+Features: []"
+RadialBasisSVM,monthly,8,match_distribution,"Accuracy: 0.16 (+/- 0.00)
+Features: []","Accuracy: 0.17 (+/- 0.01)
+Features: []"
+PolynomialSVM,weekly,3,uniform,"Accuracy: 0.57 (+/- 0.31)
+Features: []","Accuracy: 0.56 (+/- 0.36)
+Features: []"
+PolynomialSVM,weekly,3,uniform_min_max,"Accuracy: 0.39 (+/- 0.16)
+Features: []","Accuracy: 0.44 (+/- 0.15)
+Features: []"
+PolynomialSVM,weekly,3,match_distribution,"Accuracy: 0.39 (+/- 0.25)
+Features: []","Accuracy: 0.37 (+/- 0.08)
+Features: []"
+PolynomialSVM,weekly,5,uniform,"Accuracy: 0.43 (+/- 0.15)
+Features: []","Accuracy: 0.42 (+/- 0.20)
+Features: []"
+PolynomialSVM,weekly,5,uniform_min_max,"Accuracy: 0.39 (+/- 0.07)
+Features: []","Accuracy: 0.35 (+/- 0.21)
+Features: []"
+PolynomialSVM,weekly,5,match_distribution,"Accuracy: 0.33 (+/- 0.14)
+Features: []","Accuracy: 0.27 (+/- 0.11)
+Features: []"
+PolynomialSVM,weekly,8,uniform,"Accuracy: 0.43 (+/- 0.17)
+Features: []","Accuracy: 0.35 (+/- 0.20)
+Features: []"
+PolynomialSVM,weekly,8,uniform_min_max,"Accuracy: 0.31 (+/- 0.28)
+Features: []","Accuracy: 0.30 (+/- 0.20)
+Features: []"
+PolynomialSVM,weekly,8,match_distribution,"Accuracy: 0.24 (+/- 0.11)
+Features: []","Accuracy: 0.25 (+/- 0.17)
+Features: []"
+PolynomialSVM,monthly,3,uniform,"Accuracy: 0.94 (+/- 0.25)
+Features: []","Accuracy: 0.96 (+/- 0.13)
+Features: []"
+PolynomialSVM,monthly,3,uniform_min_max,"Accuracy: 0.48 (+/- 0.34)
+Features: []","Accuracy: 0.52 (+/- 0.26)
+Features: []"
+PolynomialSVM,monthly,3,match_distribution,"Accuracy: 0.57 (+/- 0.39)
+Features: []","Accuracy: 0.45 (+/- 0.33)
+Features: []"
+PolynomialSVM,monthly,5,uniform,"Accuracy: 0.75 (+/- 0.43)
+Features: []","Accuracy: 0.69 (+/- 0.41)
+Features: []"
+PolynomialSVM,monthly,5,uniform_min_max,"Accuracy: 0.56 (+/- 0.18)
+Features: []","Accuracy: 0.59 (+/- 0.26)
+Features: []"
+PolynomialSVM,monthly,5,match_distribution,"Accuracy: 0.55 (+/- 0.27)
+Features: []","Accuracy: 0.55 (+/- 0.25)
+Features: []"
+PolynomialSVM,monthly,8,uniform,"Accuracy: 0.58 (+/- 0.43)
+Features: []","Accuracy: 0.56 (+/- 0.28)
+Features: []"
+PolynomialSVM,monthly,8,uniform_min_max,"Accuracy: 0.64 (+/- 0.24)
+Features: []","Accuracy: 0.60 (+/- 0.26)
+Features: []"
+PolynomialSVM,monthly,8,match_distribution,"Accuracy: 0.54 (+/- 0.29)
+Features: []","Accuracy: 0.59 (+/- 0.21)
+Features: []"
+SigmoidSVM,weekly,3,uniform,"Accuracy: 0.77 (+/- 0.01)
+Features: []","Accuracy: 0.77 (+/- 0.01)
+Features: []"
+SigmoidSVM,weekly,3,uniform_min_max,"Accuracy: 0.53 (+/- 0.01)
+Features: []","Accuracy: 0.52 (+/- 0.01)
+Features: []"
+SigmoidSVM,weekly,3,match_distribution,"Accuracy: 0.34 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+SigmoidSVM,weekly,5,uniform,"Accuracy: 0.43 (+/- 0.01)
+Features: []","Accuracy: 0.43 (+/- 0.02)
+Features: []"
+SigmoidSVM,weekly,5,uniform_min_max,"Accuracy: 0.53 (+/- 0.01)
+Features: []","Accuracy: 0.53 (+/- 0.01)
+Features: []"
+SigmoidSVM,weekly,5,match_distribution,"Accuracy: 0.21 (+/- 0.01)
+Features: []","Accuracy: 0.21 (+/- 0.01)
+Features: []"
+SigmoidSVM,weekly,8,uniform,"Accuracy: 0.53 (+/- 0.02)
+Features: []","Accuracy: 0.52 (+/- 0.02)
+Features: []"
+SigmoidSVM,weekly,8,uniform_min_max,"Accuracy: 0.41 (+/- 0.02)
+Features: []","Accuracy: 0.41 (+/- 0.02)
+Features: []"
+SigmoidSVM,weekly,8,match_distribution,"Accuracy: 0.14 (+/- 0.01)
+Features: []","Accuracy: 0.14 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,3,uniform,"Accuracy: 0.97 (+/- 0.01)
+Features: []","Accuracy: 0.96 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,3,uniform_min_max,"Accuracy: 0.59 (+/- 0.01)
+Features: []","Accuracy: 0.58 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,3,match_distribution,"Accuracy: 0.35 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,5,uniform,"Accuracy: 0.63 (+/- 0.01)
+Features: []","Accuracy: 0.66 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,5,uniform_min_max,"Accuracy: 0.37 (+/- 0.01)
+Features: []","Accuracy: 0.34 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,5,match_distribution,"Accuracy: 0.22 (+/- 0.01)
+Features: []","Accuracy: 0.22 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,8,uniform,"Accuracy: 0.65 (+/- 0.01)
+Features: []","Accuracy: 0.64 (+/- 0.01)
+Features: []"
+SigmoidSVM,monthly,8,uniform_min_max,"Accuracy: 0.28 (+/- 0.02)
+Features: []","Accuracy: 0.29 (+/- 0.02)
+Features: []"
+SigmoidSVM,monthly,8,match_distribution,"Accuracy: 0.16 (+/- 0.00)
+Features: []","Accuracy: 0.17 (+/- 0.01)
+Features: []"
+RandomForest,weekly,3,uniform,"Accuracy: 0.57 (+/- 0.31)
+Features: ['ZS_APO', 'ZS_PPO', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_ADX', 'ZC_CLOSE', 'ZC_ADX', 'ZW_ADX', 'ZW_APO', 'ZW_TRIX']","Accuracy: 0.57 (+/- 0.40)
+Features: ['ZS_TRIX', 'ZL_HIGH', 'ZL_ADX', 'ZC_PPO', 'ZC_TRIX', 'ZW_ADXR', 'ZW_CMO', 'ZW_PLUS_DM', 'ZW_PPO', 'ZW_TRIX']"
+RandomForest,weekly,3,uniform_min_max,"Accuracy: 0.46 (+/- 0.12)
+Features: ['ZS_TRIX', 'ZM_ADXR', 'ZM_PPO', 'ZL_APO', 'ZC_ADX', 'ZW_CLOSE', 'ZW_ADX', 'ZW_APO', 'ZW_PLUS_DM', 'ZW_ROCR']","Accuracy: 0.42 (+/- 0.16)
+Features: ['ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_ADXR', 'ZL_MOM', 'ZC_STOCH_d', 'ZC_TRIX', 'ZW_ADX', 'ZW_PLUS_DM', 'ZW_TRIX']"
+RandomForest,weekly,3,match_distribution,"Accuracy: 0.44 (+/- 0.31)
+Features: ['ZS_PPO', 'ZS_TRIX', 'ZM_ADX', 'ZM_TRIX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_OPEN', 'ZW_ADX', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.41 (+/- 0.21)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZC_ADXR', 'ZC_TRIX', 'ZW_OPEN', 'ZW_ADXR', 'ZW_APO', 'ZW_MINUS_DI']"
+RandomForest,weekly,5,uniform,"Accuracy: 0.48 (+/- 0.22)
+Features: ['ZS_ADX', 'ZS_PPO', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_LOW', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.49 (+/- 0.12)
+Features: ['ZS_CLOSE', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_HIGH', 'ZL_TRIX', 'ZC_ADXR', 'ZC_TRIX', 'ZW_LOW', 'ZW_PPO']"
+RandomForest,weekly,5,uniform_min_max,"Accuracy: 0.46 (+/- 0.20)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX', 'ZL_PPO', 'ZC_TRIX', 'ZW_PLUS_DM', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.43 (+/- 0.21)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PLUS_DM', 'ZM_TRIX', 'ZL_ADX', 'ZC_TRIX', 'ZW_APO', 'ZW_MINUS_DI', 'ZW_TRIX']"
+RandomForest,weekly,5,match_distribution,"Accuracy: 0.28 (+/- 0.21)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_ADXR', 'ZM_APO', 'ZM_TRIX', 'ZL_TRIX', 'ZC_APO', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.26 (+/- 0.13)
+Features: ['ZS_LOW', 'ZS_APO', 'ZS_TRIX', 'ZM_ADX', 'ZM_ADXR', 'ZM_TRIX', 'ZC_APO', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']"
+RandomForest,weekly,8,uniform,"Accuracy: 0.44 (+/- 0.21)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_APO', 'ZL_ADX', 'ZC_TRIX', 'ZW_ADX', 'ZW_APO', 'ZW_CMO', 'ZW_TRIX']","Accuracy: 0.44 (+/- 0.23)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_ADXR', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADXR', 'ZW_APO', 'ZW_PLUS_DI']"
+RandomForest,weekly,8,uniform_min_max,"Accuracy: 0.34 (+/- 0.23)
+Features: ['ZS_ADX', 'ZS_APO', 'ZS_TRIX', 'ZM_PPO', 'ZM_TRIX', 'ZL_HIGH', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.36 (+/- 0.21)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ROCR100', 'ZM_TRIX', 'ZL_ADX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_APO', 'ZW_PLUS_DI', 'ZW_TRIX']"
+RandomForest,weekly,8,match_distribution,"Accuracy: 0.28 (+/- 0.19)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX', 'ZL_PPO', 'ZL_TRIX', 'ZC_PPO', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.28 (+/- 0.19)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADX', 'ZM_ADXR', 'ZM_APO', 'ZM_TRIX', 'ZL_PPO', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']"
+RandomForest,monthly,3,uniform,"Accuracy: 0.96 (+/- 0.12)
+Features: ['ZM_PPO', 'ZM_RSI', 'ZM_TRIX', 'ZL_APO', 'ZL_PPO', 'ZC_ADX', 'ZC_ADXR', 'ZC_DX', 'ZC_PLUS_DM', 'ZC_TRIX']","Accuracy: 0.97 (+/- 0.09)
+Features: ['ZL_CLOSE', 'ZL_ADXR', 'ZC_PPO', 'ZC_TRIX', 'ZC_ULTOSC', 'ZW_ADX', 'ZW_ADXR', 'ZW_APO', 'ZW_AROONOSC', 'ZW_CMO']"
+RandomForest,monthly,3,uniform_min_max,"Accuracy: 0.56 (+/- 0.26)
+Features: ['ZS_TRIX', 'ZM_TRIX', 'ZL_OPEN', 'ZL_HIGH', 'ZL_PPO', 'ZL_TRIX', 'ZC_OPEN', 'ZC_ADXR', 'ZC_TRIX', 'ZW_TRIX']","Accuracy: 0.53 (+/- 0.20)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_TRIX', 'ZL_OPEN', 'ZL_LOW', 'ZL_TRIX', 'ZC_PLUS_DM', 'ZW_ADX', 'ZW_ADXR', 'ZW_PLUS_DM']"
+RandomForest,monthly,3,match_distribution,"Accuracy: 0.62 (+/- 0.36)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZS_OBV', 'ZM_HIGH', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.50 (+/- 0.34)
+Features: ['ZM_APO', 'ZM_TRIX', 'ZL_OPEN', 'ZL_HIGH', 'ZL_TRIX', 'ZL_OBV', 'ZC_ADX', 'ZC_TRIX', 'ZW_ADXR', 'ZW_TRIX']"
+RandomForest,monthly,5,uniform,"Accuracy: 0.78 (+/- 0.46)
+Features: ['ZS_LOW', 'ZS_CLOSE', 'ZS_TRIX', 'ZL_OBV', 'ZC_LOW', 'ZC_TRIX', 'ZC_OBV', 'ZC_CHAIKIN', 'ZW_LOW', 'ZW_TRIX']","Accuracy: 0.72 (+/- 0.29)
+Features: ['ZS_RSI', 'ZM_ADXR', 'ZM_APO', 'ZM_PPO', 'ZM_TRIX', 'ZM_OBV', 'ZC_AROONOSC', 'ZC_TRIX', 'ZW_ADXR', 'ZW_TRIX']"
+RandomForest,monthly,5,uniform_min_max,"Accuracy: 0.60 (+/- 0.29)
+Features: ['ZS_TRIX', 'ZS_OBV', 'ZM_ADXR', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_TRIX', 'ZC_PLUS_DM', 'ZW_ADXR', 'ZW_APO', 'ZW_TRIX']","Accuracy: 0.61 (+/- 0.14)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_TRIX', 'ZL_OBV', 'ZC_ADX', 'ZC_ADXR', 'ZC_TRIX']"
+RandomForest,monthly,5,match_distribution,"Accuracy: 0.60 (+/- 0.25)
+Features: ['ZS_TRIX', 'ZM_TRIX', 'ZL_HIGH', 'ZL_CLOSE', 'ZL_APO', 'ZL_TRIX', 'ZC_TRIX', 'ZW_LOW', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.63 (+/- 0.19)
+Features: ['ZS_ADXR', 'ZM_TRIX', 'ZL_HIGH', 'ZL_CLOSE', 'ZL_TRIX', 'ZL_OBV', 'ZC_OPEN', 'ZC_TRIX', 'ZW_ADXR', 'ZW_TRIX']"
+RandomForest,monthly,8,uniform,"Accuracy: 0.67 (+/- 0.35)
+Features: ['ZS_TRIX', 'ZS_CHAIKIN', 'ZL_CLOSE', 'ZL_TRIX', 'ZC_ADXR', 'ZC_TRIX', 'ZC_OBV', 'ZW_ADXR', 'ZW_TRIX', 'ZW_OBV']","Accuracy: 0.64 (+/- 0.28)
+Features: ['ZS_HIGH', 'ZS_ADX', 'ZS_TRIX', 'ZL_OPEN', 'ZL_HIGH', 'ZL_LOW', 'ZC_CLOSE', 'ZC_TRIX', 'ZW_ADX', 'ZW_PLUS_DM']"
+RandomForest,monthly,8,uniform_min_max,"Accuracy: 0.75 (+/- 0.29)
+Features: ['ZS_TRIX', 'ZM_HIGH', 'ZM_TRIX', 'ZL_HIGH', 'ZL_CLOSE', 'ZL_PPO', 'ZL_TRIX', 'ZC_TRIX', 'ZW_OPEN', 'ZW_TRIX']","Accuracy: 0.71 (+/- 0.34)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZS_OBV', 'ZM_ADXR', 'ZM_TRIX', 'ZL_LOW', 'ZC_TRIX', 'ZW_HIGH', 'ZW_APO', 'ZW_TRIX']"
+RandomForest,monthly,8,match_distribution,"Accuracy: 0.71 (+/- 0.34)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_APO', 'ZM_TRIX', 'ZM_OBV', 'ZL_CLOSE', 'ZL_TRIX', 'ZC_ADXR', 'ZC_TRIX', 'ZW_TRIX']","Accuracy: 0.73 (+/- 0.29)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_TRIX', 'ZL_HIGH', 'ZL_LOW', 'ZL_TRIX', 'ZC_TRIX', 'ZC_OBV', 'ZW_PPO', 'ZW_TRIX']"
+GradientBoost,weekly,3,uniform,"Accuracy: 0.59 (+/- 0.26)
+Features: ['ZS_ADXR', 'ZS_PPO', 'ZM_ADXR', 'ZM_TRIX', 'ZL_HIGH', 'ZL_AROONOSC', 'ZC_HIGH', 'ZC_ADX', 'ZW_ADX', 'ZW_APO']","Accuracy: 0.57 (+/- 0.42)
+Features: ['ZS_PPO', 'ZS_TRIX', 'ZL_CLOSE', 'ZL_ADX', 'ZL_DX', 'ZC_TRIX', 'ZW_ADX', 'ZW_PLUS_DM', 'ZW_RSI', 'ZW_STOCHRSI_d']"
+GradientBoost,weekly,3,uniform_min_max,"Accuracy: 0.48 (+/- 0.24)
+Features: ['ZS_MOM', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PPO', 'ZL_APO', 'ZC_ADX', 'ZW_ADX', 'ZW_MINUS_DI', 'ZW_PLUS_DM', 'ZW_PPO']","Accuracy: 0.43 (+/- 0.23)
+Features: ['ZS_HIGH', 'ZS_TRIX', 'ZM_TRIX', 'ZL_MOM', 'ZC_ADX', 'ZC_TRIX', 'ZW_ADX', 'ZW_AROON_DOWN', 'ZW_PLUS_DM', 'ZW_TRIX']"
+GradientBoost,weekly,3,match_distribution,"Accuracy: 0.39 (+/- 0.28)
+Features: ['ZS_TRIX', 'ZM_ADX', 'ZM_PPO', 'ZL_ADX', 'ZL_PLUS_DM', 'ZL_TRIX', 'ZC_MINUS_DI', 'ZW_ADX', 'ZW_AROONOSC', 'ZW_TRIX']","Accuracy: 0.38 (+/- 0.18)
+Features: ['ZS_OPEN', 'ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZL_APO', 'ZL_TRIX', 'ZC_TRIX', 'ZW_MINUS_DI', 'ZW_TRIX']"
+GradientBoost,weekly,5,uniform,"Accuracy: 0.47 (+/- 0.16)
+Features: ['ZS_ADX', 'ZS_PPO', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX', 'ZL_OPEN', 'ZC_TRIX', 'ZW_ADX', 'ZW_PLUS_DM', 'ZW_RSI']","Accuracy: 0.42 (+/- 0.12)
+Features: ['ZS_ADX', 'ZS_DX', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_OPEN', 'ZC_ADXR', 'ZC_TRIX', 'ZW_CLOSE', 'ZW_PLUS_DM']"
+GradientBoost,weekly,5,uniform_min_max,"Accuracy: 0.42 (+/- 0.20)
+Features: ['ZS_ADXR', 'ZM_ADX', 'ZM_ADXR', 'ZM_PPO', 'ZM_TRIX', 'ZL_OPEN', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADX', 'ZW_MINUS_DI']","Accuracy: 0.38 (+/- 0.23)
+Features: ['ZS_LOW', 'ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_CHAIKIN', 'ZC_PPO', 'ZW_MINUS_DI', 'ZW_TRIX']"
+GradientBoost,weekly,5,match_distribution,"Accuracy: 0.29 (+/- 0.22)
+Features: ['ZS_LOW', 'ZS_PPO', 'ZS_TRIX', 'ZM_ADXR', 'ZL_TRIX', 'ZC_ADXR', 'ZC_AROONOSC', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.27 (+/- 0.18)
+Features: ['ZS_LOW', 'ZS_TRIX', 'ZM_ADXR', 'ZL_APO', 'ZL_TRIX', 'ZC_PPO', 'ZC_TRIX', 'ZW_ADX', 'ZW_RSI', 'ZW_TRIX']"
+GradientBoost,weekly,8,uniform,"Accuracy: 0.46 (+/- 0.19)
+Features: ['ZM_ADXR', 'ZM_APO', 'ZM_TRIX', 'ZL_ADX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADX', 'ZW_ADXR', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.43 (+/- 0.17)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_ADXR', 'ZL_HIGH', 'ZL_ADX', 'ZC_ADXR', 'ZC_PPO', 'ZC_CHAIKIN', 'ZW_CMO', 'ZW_TRIX']"
+GradientBoost,weekly,8,uniform_min_max,"Accuracy: 0.37 (+/- 0.18)
+Features: ['ZS_ADXR', 'ZS_PPO', 'ZM_ADX', 'ZM_PPO', 'ZM_TRIX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADX', 'ZW_ADXR', 'ZW_MINUS_DI']","Accuracy: 0.30 (+/- 0.15)
+Features: ['ZS_LOW', 'ZS_ADXR', 'ZS_TRIX', 'ZM_TRIX', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADXR', 'ZW_APO', 'ZW_MINUS_DI', 'ZW_TRIX']"
+GradientBoost,weekly,8,match_distribution,"Accuracy: 0.35 (+/- 0.18)
+Features: ['ZS_ADXR', 'ZM_ADX', 'ZM_TRIX', 'ZL_TRIX', 'ZC_ADX', 'ZC_MINUS_DI', 'ZC_TRIX', 'ZW_ADX', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.32 (+/- 0.13)
+Features: ['ZS_HIGH', 'ZS_ADXR', 'ZM_ADXR', 'ZM_TRIX', 'ZL_ADXR', 'ZC_PPO', 'ZC_TRIX', 'ZW_ADXR', 'ZW_PLUS_DM', 'ZW_TRIX']"
+GradientBoost,monthly,3,uniform,"Accuracy: 0.98 (+/- 0.07)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZL_ADX', 'ZL_APO', 'ZL_MINUS_DI', 'ZL_ULTOSC', 'ZC_ADX', 'ZC_TRIX', 'ZW_APO', 'ZW_PPO']","Accuracy: 0.99 (+/- 0.04)
+Features: ['ZC_ADX', 'ZC_DX', 'ZW_OPEN', 'ZW_HIGH', 'ZW_ADX', 'ZW_ADXR', 'ZW_CMO', 'ZW_MINUS_DI', 'ZW_PLUS_DI', 'ZW_RSI']"
+GradientBoost,monthly,3,uniform_min_max,"Accuracy: 0.52 (+/- 0.26)
+Features: ['ZS_TRIX', 'ZS_CHAIKIN', 'ZM_OPEN', 'ZM_ADXR', 'ZL_CLOSE', 'ZL_PPO', 'ZL_TRIX', 'ZC_ADXR', 'ZW_APO', 'ZW_TRIX']","Accuracy: 0.59 (+/- 0.36)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_TRIX', 'ZL_HIGH', 'ZL_LOW', 'ZC_CLOSE', 'ZC_PLUS_DM', 'ZC_TRIX', 'ZW_ADX', 'ZW_ADXR']"
+GradientBoost,monthly,3,match_distribution,"Accuracy: 0.61 (+/- 0.37)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_TRIX', 'ZL_HIGH', 'ZL_TRIX', 'ZC_OBV', 'ZW_TRIX', 'ZW_OBV']","Accuracy: 0.55 (+/- 0.44)
+Features: ['ZS_AROON_UP', 'ZM_TRIX', 'ZM_OBV', 'ZL_LOW', 'ZL_OBV', 'ZC_TRIX', 'ZW_ADX', 'ZW_ADXR', 'ZW_MINUS_DI', 'ZW_TRIX']"
+GradientBoost,monthly,5,uniform,"Accuracy: 0.79 (+/- 0.38)
+Features: ['ZS_TRIX', 'ZS_OBV', 'ZM_ADXR', 'ZM_OBV', 'ZL_TRIX', 'ZL_CHAIKIN', 'ZC_ULTOSC', 'ZC_OBV', 'ZC_CHAIKIN', 'ZW_TRIX']","Accuracy: 0.70 (+/- 0.58)
+Features: ['ZS_AROON_UP', 'ZS_MINUS_DI', 'ZM_ADXR', 'ZM_APO', 'ZM_TRIX', 'ZM_OBV', 'ZL_OBV', 'ZC_AROONOSC', 'ZC_TRIX', 'ZW_ADXR']"
+GradientBoost,monthly,5,uniform_min_max,"Accuracy: 0.58 (+/- 0.27)
+Features: ['ZS_OBV', 'ZS_CHAIKIN', 'ZM_ADX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_PPO', 'ZL_TRIX', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.64 (+/- 0.17)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_LOW', 'ZL_TRIX', 'ZL_OBV', 'ZC_OPEN', 'ZW_PPO']"
+GradientBoost,monthly,5,match_distribution,"Accuracy: 0.69 (+/- 0.28)
+Features: ['ZS_ADXR', 'ZS_CHAIKIN', 'ZM_ADX', 'ZM_TRIX', 'ZL_HIGH', 'ZL_APO', 'ZL_TRIX', 'ZC_OBV', 'ZW_HIGH', 'ZW_TRIX']","Accuracy: 0.70 (+/- 0.24)
+Features: ['ZS_ADXR', 'ZS_APO', 'ZM_ADXR', 'ZM_TRIX', 'ZL_HIGH', 'ZL_OBV', 'ZC_ADXR', 'ZC_TRIX', 'ZW_ADXR', 'ZW_TRIX']"
+GradientBoost,monthly,8,uniform,"Accuracy: 0.72 (+/- 0.29)
+Features: ['ZS_HIGH', 'ZS_TRIX', 'ZS_CHAIKIN', 'ZM_ADXR', 'ZM_TRIX', 'ZL_TRIX', 'ZC_ADXR', 'ZC_OBV', 'ZW_ADXR', 'ZW_TRIX']","Accuracy: 0.70 (+/- 0.26)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZM_TRIX', 'ZL_OPEN', 'ZL_LOW', 'ZL_CLOSE', 'ZC_HIGH', 'ZC_TRIX', 'ZW_ADX', 'ZW_CHAIKIN']"
+GradientBoost,monthly,8,uniform_min_max,"Accuracy: 0.71 (+/- 0.25)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_LOW', 'ZL_APO', 'ZC_OBV', 'ZW_LOW', 'ZW_TRIX', 'ZW_CHAIKIN']","Accuracy: 0.75 (+/- 0.38)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZM_ADXR', 'ZM_TRIX', 'ZL_OPEN', 'ZL_TRIX', 'ZL_OBV', 'ZC_ADX', 'ZC_TRIX', 'ZW_TRIX']"
+GradientBoost,monthly,8,match_distribution,"Accuracy: 0.77 (+/- 0.40)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_ADXR', 'ZM_TRIX', 'ZL_TRIX', 'ZC_ADXR', 'ZC_OBV', 'ZW_TRIX']","Accuracy: 0.72 (+/- 0.38)
+Features: ['ZS_ADX', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_ADXR', 'ZC_ADXR', 'ZC_AROONOSC', 'ZC_TRIX', 'ZC_OBV', 'ZW_PPO', 'ZW_CHAIKIN']"
+DecisionTree,weekly,3,uniform,"Accuracy: 0.49 (+/- 0.28)
+Features: ['ZM_PPO', 'ZM_TRIX', 'ZL_OPEN', 'ZL_APO', 'ZL_ROCR', 'ZL_TRIX', 'ZC_CLOSE', 'ZC_STOCH_k', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.56 (+/- 0.35)
+Features: ['ZS_ADX', 'ZS_MACDEXT', 'ZS_PPO', 'ZS_TRIX', 'ZM_PPO', 'ZL_OPEN', 'ZL_TRIX', 'ZC_ADX', 'ZW_MINUS_DI', 'ZW_PLUS_DM']"
+DecisionTree,weekly,3,uniform_min_max,"Accuracy: 0.45 (+/- 0.12)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_PPO', 'ZM_ULTOSC', 'ZL_AROON_DOWN', 'ZL_PLUS_DM', 'ZC_ADXR', 'ZW_ADXR', 'ZW_MINUS_DI', 'ZW_PLUS_DM']","Accuracy: 0.43 (+/- 0.24)
+Features: ['ZS_TRIX', 'ZM_PPO', 'ZM_TRIX', 'ZL_ADXR', 'ZC_ADXR', 'ZC_AROON_UP', 'ZC_TRIX', 'ZW_ADX', 'ZW_AROON_DOWN', 'ZW_RSI']"
+DecisionTree,weekly,3,match_distribution,"Accuracy: 0.38 (+/- 0.21)
+Features: ['ZS_ADXR', 'ZS_PLUS_DM', 'ZM_PLUS_DM', 'ZL_ADX', 'ZL_PLUS_DM', 'ZC_TRIX', 'ZW_AROONOSC', 'ZW_PLUS_DM', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.34 (+/- 0.19)
+Features: ['ZS_CLOSE', 'ZS_ADXR', 'ZS_TRIX', 'ZM_PPO', 'ZL_OPEN', 'ZL_MOM', 'ZC_ADXR', 'ZC_APO', 'ZW_RSI', 'ZW_TRIX']"
+DecisionTree,weekly,5,uniform,"Accuracy: 0.45 (+/- 0.15)
+Features: ['ZS_CLOSE', 'ZS_ADX', 'ZM_TRIX', 'ZC_ADX', 'ZC_APO', 'ZC_AROONOSC', 'ZW_OPEN', 'ZW_ADX', 'ZW_ROCP', 'ZW_STOCH_d']","Accuracy: 0.38 (+/- 0.16)
+Features: ['ZS_ADX', 'ZS_AROON_UP', 'ZS_CMO', 'ZS_PPO', 'ZM_OPEN', 'ZM_ADXR', 'ZL_OPEN', 'ZL_TRIX', 'ZW_PLUS_DM', 'ZW_TRIX']"
+DecisionTree,weekly,5,uniform_min_max,"Accuracy: 0.40 (+/- 0.21)
+Features: ['ZS_TRIX', 'ZM_ADXR', 'ZL_ADXR', 'ZL_PLUS_DM', 'ZL_PPO', 'ZC_TRIX', 'ZW_ADX', 'ZW_APO', 'ZW_CMO', 'ZW_TRIX']","Accuracy: 0.31 (+/- 0.15)
+Features: ['ZS_ADXR', 'ZS_TRIX', 'ZM_CMO', 'ZM_TRIX', 'ZL_CHAIKIN', 'ZC_TRIX', 'ZW_ADXR', 'ZW_APO', 'ZW_PLUS_DM', 'ZW_RSI']"
+DecisionTree,weekly,5,match_distribution,"Accuracy: 0.22 (+/- 0.19)
+Features: ['ZS_CLOSE', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PPO', 'ZL_PPO', 'ZC_APO', 'ZC_AROONOSC', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.24 (+/- 0.19)
+Features: ['ZS_CLOSE', 'ZS_PPO', 'ZS_TRIX', 'ZM_ADXR', 'ZM_PLUS_DM', 'ZC_ADX', 'ZC_APO', 'ZC_TRIX', 'ZW_ADX', 'ZW_TRIX']"
+DecisionTree,weekly,8,uniform,"Accuracy: 0.42 (+/- 0.22)
+Features: ['ZS_ULTOSC', 'ZM_ADXR', 'ZM_APO', 'ZL_HIGH', 'ZL_ADX', 'ZL_PPO', 'ZC_APO', 'ZW_HIGH', 'ZW_ADX', 'ZW_TRIX']","Accuracy: 0.37 (+/- 0.19)
+Features: ['ZS_ADX', 'ZS_ADXR', 'ZS_TRIX', 'ZM_ROCR100', 'ZL_ADX', 'ZL_CHAIKIN', 'ZC_PPO', 'ZC_TRIX', 'ZW_MINUS_DI', 'ZW_TRIX']"
+DecisionTree,weekly,8,uniform_min_max,"Accuracy: 0.32 (+/- 0.27)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZL_ADX', 'ZL_PPO', 'ZL_TRIX', 'ZC_TRIX', 'ZW_ADX', 'ZW_APO', 'ZW_AROONOSC', 'ZW_RSI']","Accuracy: 0.28 (+/- 0.14)
+Features: ['ZS_CLOSE', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_TRIX', 'ZL_CHAIKIN', 'ZC_ADX', 'ZC_TRIX', 'ZW_APO', 'ZW_DX']"
+DecisionTree,weekly,8,match_distribution,"Accuracy: 0.28 (+/- 0.15)
+Features: ['ZS_CLOSE', 'ZS_TRIX', 'ZM_ADX', 'ZM_APO', 'ZL_APO', 'ZL_TRIX', 'ZC_TRIX', 'ZW_CLOSE', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.28 (+/- 0.19)
+Features: ['ZS_CLOSE', 'ZS_TRIX', 'ZL_ADX', 'ZL_ADXR', 'ZL_TRIX', 'ZC_ADXR', 'ZC_TRIX', 'ZW_OPEN', 'ZW_CMO', 'ZW_TRIX']"
+DecisionTree,monthly,3,uniform,"Accuracy: 0.95 (+/- 0.10)
+Features: ['ZL_APO', 'ZL_DX', 'ZL_ULTOSC', 'ZC_ADX', 'ZC_TRIX', 'ZC_ULTOSC', 'ZC_WILLR', 'ZC_OBV', 'ZC_CHAIKIN', 'ZW_OPEN']","Accuracy: 0.98 (+/- 0.04)
+Features: ['ZW_ADXR', 'ZW_CMO', 'ZW_RSI', 'ZW_STOCH_k', 'ZW_STOCH_d', 'ZW_STOCH_Fast_k', 'ZW_STOCH_Fast_d', 'ZW_STOCHRSI_k', 'ZW_STOCHRSI_d', 'ZW_TRIX']"
+DecisionTree,monthly,3,uniform_min_max,"Accuracy: 0.49 (+/- 0.36)
+Features: ['ZS_CHAIKIN', 'ZM_HIGH', 'ZM_ADX', 'ZM_ADXR', 'ZM_APO', 'ZL_LOW', 'ZL_PPO', 'ZL_TRIX', 'ZW_APO', 'ZW_TRIX']","Accuracy: 0.52 (+/- 0.20)
+Features: ['ZS_CLOSE', 'ZS_ADX', 'ZS_ADXR', 'ZS_CMO', 'ZS_TRIX', 'ZM_APO', 'ZL_HIGH', 'ZL_PPO', 'ZW_HIGH', 'ZW_ADX']"
+DecisionTree,monthly,3,match_distribution,"Accuracy: 0.62 (+/- 0.44)
+Features: ['ZS_AROONOSC', 'ZS_OBV', 'ZS_CHAIKIN', 'ZM_APO', 'ZM_PLUS_DM', 'ZM_TRIX', 'ZL_TRIX', 'ZC_RSI', 'ZW_TRIX', 'ZW_OBV']","Accuracy: 0.49 (+/- 0.44)
+Features: ['ZS_ADXR', 'ZM_AROONOSC', 'ZM_TRIX', 'ZL_LOW', 'ZL_TRIX', 'ZL_OBV', 'ZC_OPEN', 'ZC_ADX', 'ZC_TRIX', 'ZW_MOM']"
+DecisionTree,monthly,5,uniform,"Accuracy: 0.77 (+/- 0.40)
+Features: ['ZM_ADXR', 'ZM_OBV', 'ZL_TRIX', 'ZC_CCI', 'ZC_OBV', 'ZC_CHAIKIN', 'ZW_ADXR', 'ZW_APO', 'ZW_STOCHRSI_d', 'ZW_TRIX']","Accuracy: 0.69 (+/- 0.44)
+Features: ['ZS_AROON_UP', 'ZM_ADX', 'ZM_APO', 'ZM_MFI', 'ZM_TRIX', 'ZL_STOCHRSI_d', 'ZC_ADXR', 'ZC_PPO', 'ZC_TRIX', 'ZW_AROON_UP']"
+DecisionTree,monthly,5,uniform_min_max,"Accuracy: 0.64 (+/- 0.21)
+Features: ['ZS_OBV', 'ZS_CHAIKIN', 'ZM_OPEN', 'ZM_APO', 'ZM_TRIX', 'ZL_HIGH', 'ZL_APO', 'ZW_ADXR', 'ZW_PPO', 'ZW_TRIX']","Accuracy: 0.52 (+/- 0.22)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_ADXR', 'ZM_TRIX', 'ZM_OBV', 'ZM_CHAIKIN', 'ZL_OPEN', 'ZL_ADX', 'ZL_OBV', 'ZC_CLOSE']"
+DecisionTree,monthly,5,match_distribution,"Accuracy: 0.61 (+/- 0.31)
+Features: ['ZS_ADXR', 'ZS_PPO', 'ZM_TRIX', 'ZL_ADXR', 'ZL_TRIX', 'ZC_ADXR', 'ZC_APO', 'ZC_OBV', 'ZW_TRIX', 'ZW_OBV']","Accuracy: 0.66 (+/- 0.21)
+Features: ['ZS_ADX', 'ZM_ADX', 'ZM_ADXR', 'ZM_TRIX', 'ZL_HIGH', 'ZL_TRIX', 'ZL_OBV', 'ZC_PLUS_DM', 'ZC_TRIX', 'ZW_APO']"
+DecisionTree,monthly,8,uniform,"Accuracy: 0.54 (+/- 0.37)
+Features: ['ZS_TRIX', 'ZS_CHAIKIN', 'ZM_ADXR', 'ZM_TRIX', 'ZL_PPO', 'ZL_TRIX', 'ZC_CLOSE', 'ZC_PLUS_DM', 'ZW_DX', 'ZW_OBV']","Accuracy: 0.61 (+/- 0.28)
+Features: ['ZS_ADX', 'ZS_TRIX', 'ZM_ADX', 'ZM_CHAIKIN', 'ZL_CLOSE', 'ZL_ADX', 'ZC_ADX', 'ZC_PLUS_DM', 'ZC_TRIX', 'ZW_ADX']"
+DecisionTree,monthly,8,uniform_min_max,"Accuracy: 0.69 (+/- 0.26)
+Features: ['ZS_CHAIKIN', 'ZM_TRIX', 'ZL_CLOSE', 'ZL_APO', 'ZL_OBV', 'ZC_PLUS_DM', 'ZC_TRIX', 'ZW_APO', 'ZW_TRIX', 'ZW_OBV']","Accuracy: 0.61 (+/- 0.33)
+Features: ['ZS_ADXR', 'ZS_AROON_UP', 'ZM_TRIX', 'ZL_LOW', 'ZL_ADX', 'ZL_OBV', 'ZL_CHAIKIN', 'ZC_APO', 'ZC_AROONOSC', 'ZC_TRIX']"
+DecisionTree,monthly,8,match_distribution,"Accuracy: 0.65 (+/- 0.40)
+Features: ['ZS_ADXR', 'ZS_OBV', 'ZM_ADX', 'ZM_APO', 'ZM_TRIX', 'ZM_OBV', 'ZL_OPEN', 'ZL_TRIX', 'ZW_OPEN', 'ZW_TRIX']","Accuracy: 0.56 (+/- 0.27)
+Features: ['ZS_ADX', 'ZS_AROONOSC', 'ZS_OBV', 'ZM_TRIX', 'ZL_OPEN', 'ZL_ADX', 'ZL_PLUS_DM', 'ZC_PPO', 'ZC_TRIX', 'ZC_OBV']"

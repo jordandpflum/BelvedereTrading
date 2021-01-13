@@ -1,0 +1,30 @@
+BZ - Crude Oil Brent Last Day
+CL - Crude Oil 
+ES - S&P 500 
+GC - Gold
+GE - Eurodollar
+GF - Feeder Cattle
+HE - Lean Hogs
+HG - Copper
+HO - Heating Oil
+KE - Hard Red Winter Wheat
+LE - Live Cattle
+NG - Natural Gas
+NQ - NASDAQ 100 Index (E-Mini)
+PA - Palladium
+PL - Platinum
+RB - RBOB Gasoline
+RTY - Russell 2000 Index (E-Mini)
+SI - Silver
+YM - Dow Futures
+ZB - T-Bonds
+ZC - Corn
+ZF - 5 Year T-Notes
+ZL - Soybean Oil
+ZM - Soybean Meal
+ZN - 10 Year T-Notes
+ZS - Soybeans
+ZT - 2-Year T-Notes
+ZW - Wheat
+
+Source - https://www.purefinancialacademy.com/futures-markets
